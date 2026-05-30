@@ -1,0 +1,27 @@
+{
+  "name": "mynodejs_application",
+  "version": "1.0.0",
+  "description": "first node js application ",
+  "keywords": [
+    "REACTJS",
+    "NODEJS"
+  ],
+  "homepage": "https://github.com/SANSKAR273/SANSKAR273#readme",
+  "bugs": {
+    "url": "https://github.com/SANSKAR273/SANSKAR273/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SANSKAR273/SANSKAR273.git"
+  },
+  "license": "ISC",
+  "author": "SANSKARM23",
+  "type": "Y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
